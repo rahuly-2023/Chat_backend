@@ -1,4 +1,4 @@
-#Chat-Backend
+# Chat-Backend
 This is the backend of the chat application built using Strapi. It offers real-time communication features and utilizes WebSocket for bi-directional messaging between server and the user.
 
 
@@ -9,7 +9,7 @@ This is the backend of the chat application built using Strapi. It offers real-t
 - Real-time messaging using WebSockets
 - User authentication and profile management
 - Chat history to retrieve past conversations
-- Responsive UI for smooth user experience on multiple devices
+- Responsive UI for smooth user experience on multiple devices <br/>
 
 
 
@@ -23,7 +23,7 @@ This is the backend of the chat application built using Strapi. It offers real-t
 
 **Server:** Strapi
 
-**Real-Time Communication:** WebSockets
+**Real-Time Communication:** WebSockets <br/><br/>
 
 
 
